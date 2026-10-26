@@ -1,0 +1,6 @@
+{
+  "name": "DocExtract PHP - Doctor Directory Web Scraper",
+  "description": "Production-grade PHP web scraper and interactive CLI studio for extracting doctor contact directories to CSV using cURL and DOMXPath.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
